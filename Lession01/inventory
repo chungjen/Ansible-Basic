@@ -1,0 +1,12 @@
+[servers]
+ansible1
+ansible2
+ansible3
+
+[nexus]
+ansible4
+
+[nexus:vars]
+ansible_connection = local
+ansible_user = admin
+ansible_pass = password
