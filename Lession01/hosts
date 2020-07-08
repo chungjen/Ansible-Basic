@@ -1,0 +1,11 @@
+# this file need to place under directory etc with the filename hosts
+#
+
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+10.36.197.150   control.example.com control.logicalis.local control
+10.36.197.151   ansible1.example.com ansible1.logicalis.local ansible1
+10.36.197.152   ansible2.exmaple.com ansible2.logicalis.local ansible2
+10.36.197.153   ansible3.example.com ansible3.logicalis.local ansible3
+10.36.197.154   ansible4.example.com ansible4.logicalis.local ansible4
